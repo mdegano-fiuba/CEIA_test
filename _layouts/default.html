@@ -18,6 +18,7 @@
 
   <body>
     <header>
+      <img src="/_images/logo-fiuba-c.png" alt="Logo FIUBA">
       <div class="inner">
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
@@ -51,7 +52,7 @@
           {% endif %}
 
           {% if site.github.is_project_page %}
-            <p class="repo-owner"> Autor: <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
+            <p> Autor: <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
           {% endif %}
 
           <p>Generado por <a href="https://pages.github.com">GitHub Pages</a>.</p>
