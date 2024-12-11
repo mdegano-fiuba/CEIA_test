@@ -2,6 +2,15 @@ title: Hello world
 description: Description here
 show_downloads: true
 theme: jekyll-theme-architect
+
+nav:
+  - text: "Inicio"
+    url: "/"
+  - text: "D1"
+    url: "/D1/"
+  - text: "D2"
+    url: "/D2/"
+    
 author:
   name: "Myrna Degano"
   email: "mdegano.ext@fi.uba.ar"
