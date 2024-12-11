@@ -2,3 +2,7 @@ title: Hello world
 description: Description here
 show_downloads: true
 theme: jekyll-theme-architect
+author:
+  name: "Myrna Degano"
+  email: "mdegano.ext@fi.uba.ar"
+  github: "mdegano-fiuba"
