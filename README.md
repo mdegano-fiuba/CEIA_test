@@ -21,11 +21,11 @@ Ing. Myrna Degano (a1618)
 ![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<p style="background-color: #0000FF;">
+<img src="https://nlp.stanford.edu/static/img/logos/Stanford-NLP-icon-144x72.gif" alt="Sandford-NPL (GloVe)" width=50/>
+<p style="background-color: red;">
 <img src="https://fasttext.cc/img/fasttext-icon-white-web.png" alt="fasttext" width=50/> 
 </p>
-<img src="https://nlp.stanford.edu/static/img/logos/Stanford-NLP-icon-144x72.gif" alt="Sandford-NPL (GloVe)" width=50/>
+
 
 
 ## Desafío 1
