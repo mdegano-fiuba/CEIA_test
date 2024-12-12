@@ -1,6 +1,6 @@
 ## Objetivo
 
-Este repositorio contiene los desafíos elaborados en el contexto de la materia "Procesamiento del Lenguaje Natural" de la carrera de "Especialización en Inteligencia Artificial" de la Facultad de Ingeniería de la Universidad de Buenos Aires.
+Este repositorio contiene los desafíos elaborados en el contexto de la materia "**Procesamiento del Lenguaje Natural**" de la carrera de "*Especialización en Inteligencia Artificial*" de la *Facultad de Ingeniería* de la *Universidad de Buenos Aires*.
 
 * **Docente**:  
 Dr. Rodrigo Cardenas Szigety
