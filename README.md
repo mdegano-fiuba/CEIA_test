@@ -22,7 +22,7 @@ Ing. Myrna Degano (a1618)
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-<img src="https://storage.googleapis.com/kaggle-datasets-images/9247/12981/34832d3829eaf5db0a3555136c48667b/dataset-card.png?t=2018-01-10-22-05-25" alt="fasttext" width=50/>  <img src="https://nlp.stanford.edu/static/img/logos/Stanford-NLP-icon-144x72.gif" alt="Sandford-NPL (GloVe)" width=50/>
+<img src="https://fasttext.cc/img/fasttext-icon-white-web.png" alt="fasttext" width=50/>  <img src="https://nlp.stanford.edu/static/img/logos/Stanford-NLP-icon-144x72.gif" alt="Sandford-NPL (GloVe)" width=50/>
 
 
 ## Desafío 1
