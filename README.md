@@ -1,14 +1,24 @@
-# CEIA_test
+## Objetivo
 
-## titulo2
+Este repositorio contiene los desafíos elaborados en el contexto de la materia "Procesamiento del Lenguaje Natural" de la carrera de "Especialización en Inteligencia Artificial" de la Facultad de Ingeniería de la Universidad de Buenos Aires.
 
-### titulo3
+### Docente: 
+Dr. Rodrigo Cardenas Szigety (rodrigo.cardenas.sz@gmail.com)
 
-#### titulo4
+### Alumno: 
+Ing. Myrna Degano (mdegano.ext@fi.uba.ar) (a1618)
 
-##### titulo5
+### Referencias: 
+https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural
 
-* bullet
-* asd
-* asd
-* asd
+### Recursos: 
+X
+
+## Desafío 1
+
+## Desafío 2
+
+## Desafío 3
+
+## Desafío 4
+
