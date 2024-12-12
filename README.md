@@ -4,11 +4,11 @@ Este repositorio contiene los desafíos elaborados en el contexto de la materia 
 
 * **Docente**:  
 Dr. Rodrigo Cardenas Szigety
-<a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-blue?style=flat-square&logo=gmail">
+<br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-blue?style=flat-square&logo=gmail">
 
 * **Alumno**:  
 Ing. Myrna Degano (a1618)
-<a href="mailto:myrna.l.degano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-myrna.l.degano@gmail.com-blue?style=flat-square&logo=gmail">
+<br><a href="mailto:myrna.l.degano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-myrna.l.degano@gmail.com-blue?style=flat-square&logo=gmail">
 
 * **Referencias**:   
 https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural
