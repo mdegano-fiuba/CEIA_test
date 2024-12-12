@@ -2,7 +2,6 @@ title: Procesamiento del Lenguaje Natural
 description: Carrera de Especialización en Inteligencia Artificial - Cohorte 16 - 2024
 show_downloads: true
 theme: jekyll-theme-architect
-
 nav:
   - text: "Inicio"
     url: "/"
@@ -10,8 +9,3 @@ nav:
     url: "/D1/"
   - text: "D2"
     url: "/D2/"
-    
-author:
-  name: "Myrna Degano"
-  email: "mdegano.ext@fi.uba.ar"
-  github: "mdegano-fiuba"
