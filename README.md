@@ -22,6 +22,7 @@ Ing. Myrna Degano (a1618)
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+<div background-color="blue"> asdadda </div>
 <img src="https://fasttext.cc/img/fasttext-icon-white-web.png" alt="fasttext" background-color="black" width=50/>  <img src="https://nlp.stanford.edu/static/img/logos/Stanford-NLP-icon-144x72.gif" alt="Sandford-NPL (GloVe)" width=50/>
 
 
