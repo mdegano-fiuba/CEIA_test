@@ -34,7 +34,8 @@ VECTORIZACION DE DOCUMENTOS
    - Probar test de analogías  
    - Graficar embeddings  
 
-
+* **Desarrollo**:
+[XX](1. Vectorización)
 
 ## Desafío 2
 
