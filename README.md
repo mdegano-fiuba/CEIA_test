@@ -22,6 +22,8 @@ Ing. Myrna Degano (a1618)
 ![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+<img source="https://fasttext.cc/img/fasttext-icon-white-web.png" width=20>
+
 
 
 ## Desafío 1
