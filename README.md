@@ -2,17 +2,18 @@
 
 Este repositorio contiene los desafíos elaborados en el contexto de la materia "Procesamiento del Lenguaje Natural" de la carrera de "Especialización en Inteligencia Artificial" de la Facultad de Ingeniería de la Universidad de Buenos Aires.
 
-### Docente: 
+* **Docente**:  
 Dr. Rodrigo Cardenas Szigety (rodrigo.cardenas.sz@gmail.com)
 
-### Alumno: 
+* **Alumno**:  
 Ing. Myrna Degano (a1618) (mdegano.ext@fi.uba.ar) 
 
-### Referencias: 
+* **Referencias**:   
 https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural
 
 ### Recursos: 
-X
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 
 ## Desafío 1
 
