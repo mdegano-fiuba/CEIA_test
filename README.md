@@ -28,11 +28,11 @@ Ing. Myrna Degano (a1618)
 VECTORIZACION DE DOCUMENTOS
 
 * **Objetivos**:
-- Crear vectores con Gensim
-- Probar términos de interés
-- Medir similaridad
-- Probar test de analogías
-- Graficar embeddings
+ - Crear vectores con Gensim
+ - Probar términos de interés
+ - Medir similaridad
+ - Probar test de analogías
+ - Graficar embeddings
 
 
 
