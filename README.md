@@ -10,7 +10,7 @@ Dr. Rodrigo Cardenas Szigety
 Ing. Myrna Degano (a1618)
 <br><a href="mailto:myrna.l.degano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-myrna.l.degano@gmail.com-blue?style=flat-square&logo=gmail">
 
-* **Referencias**:
+* **Referencias**:  
 <a href="https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural" target="_blank">FIUBA-Posgrado-Inteligencia-Artificial - Procesamiento lenguaje natural</a>
 
 * **Recursos**:   
