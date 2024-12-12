@@ -18,13 +18,12 @@
 
   <body>
     <header>
-      <img src="https://fi.uba.ar/images/logo-fiuba.png" alt="Logo FIUBA" width=100>
       <div class="inner">
-        <img src="https://fi.uba.ar/images/logo-fiuba.png" alt="Logo FIUBA" width=50>
+        <img src="https://fi.uba.ar/images/logo-fiuba.png" alt="Logo FIUBA" width=200>
         <a href="{{ '/' | absolute_url }}">
-          <h2>{{ site.title | default: site.github.repository_name }}</h2>
+          <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h3>{{ site.description | default: site.github.project_tagline }}</h3>
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
         {% if site.github.is_project_page %}
           <a href="{{ site.github.repository_url }}" class="button"><small>Ver el proyecto en </small> GitHub</a>
         {% endif %}
