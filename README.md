@@ -35,7 +35,7 @@ VECTORIZACION DE DOCUMENTOS
    - Graficar embeddings  
 
 * **Desarrollo**:
-[XX](1. Vectorización)
+[XX](D1)
 
 ## Desafío 2
 
