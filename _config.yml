@@ -2,10 +2,3 @@ title: Procesamiento del  Lenguaje Natural
 description: CEIA - 16Co2024
 show_downloads: true
 theme: jekyll-theme-architect
-nav:
-  - text: "Inicio"
-    url: "/"
-  - text: "D1"
-    url: "/D1/"
-  - text: "D2"
-    url: "/D2/"
