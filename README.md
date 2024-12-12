@@ -6,7 +6,7 @@ Este repositorio contiene los desafíos elaborados en el contexto de la materia 
 Dr. Rodrigo Cardenas Szigety (rodrigo.cardenas.sz@gmail.com)
 
 ### Alumno: 
-Ing. Myrna Degano (mdegano.ext@fi.uba.ar) (a1618)
+Ing. Myrna Degano (a1618) (mdegano.ext@fi.uba.ar) 
 
 ### Referencias: 
 https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural
