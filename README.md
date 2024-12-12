@@ -24,15 +24,15 @@ Ing. Myrna Degano (a1618)
 
 ## Desafío 1
 
-* **Tema**:
+* **Tema**:  
 VECTORIZACION DE DOCUMENTOS
 
-* **Objetivos**:
- - Crear vectores con Gensim
- - Probar términos de interés
- - Medir similaridad
- - Probar test de analogías
- - Graficar embeddings
+* **Objetivos**:  
+   - Crear vectores con Gensim  
+   - Probar términos de interés  
+   - Medir similaridad  
+   - Probar test de analogías  
+   - Graficar embeddings  
 
 
 
