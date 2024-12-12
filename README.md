@@ -34,12 +34,51 @@ VECTORIZACION DE DOCUMENTOS
    - Probar test de analogías  
    - Graficar embeddings  
 
-* **Desarrollo**:
+* **Desarrollo**:  
 [XX](D1)
 
 ## Desafío 2
 
+* **Tema**:  
+EMBEDDINGS
+
+* **Objetivos**:  
+   - Creación de embeddings de palabras 
+   - Tokenización
+   - Similitudes entre palabras
+   - Pruebas de analogías
+   - Visualización  
+
+* **Desarrollo**:  
+[XX](D1)
+
+
 ## Desafío 3
 
+* **Tema**:  
+MODELOS DE LENGUAJE
+
+* **Objetivos**:
+   - Entrenar un modelo de lenguaje
+   - Realizar el preprocesamiento adecuado para tokenizar el corpus
+   - Proponer arquitecturas de redes neuronales basadas en unidades recurrentes para implementar el modelo
+   - Generar secuencias nuevas a partir de secuencias de contexto
+   - Probar estrategias de greedy search / beam search determinístico y estocástico
+   - Probar el efecto de la temperatura en la generación de secuencias 
+
+* **Desarrollo**:  
+[XX](D1)
+
+
 ## Desafío 4
+
+* **Tema**:  
+BOT DE PREGUNTAS Y RESPUESTAS
+
+* **Objetivos**:  
+   - Construir un bot para responder a preguntas del usuario.
+
+* **Desarrollo**:  
+[XX](D1)
+
 
