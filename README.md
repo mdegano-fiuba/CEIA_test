@@ -43,13 +43,8 @@ VECTORIZACION DE DOCUMENTOS
 Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
 Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
-[Ver Notebook (Desarrollo y conclusiones)](D1)
-<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=flat-square&logo=googlecolab">
-<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=flat&logo=googlecolab">
-<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=social&logo=googlecolab">
-
 <a href="/D1">
-    <img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook-blue?style=flat-square&logo=googlecolab">
+    <img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-blue?style=flat-square&logo=googlecolab">
 </a>
 
 ## Desafío 2
