@@ -5,16 +5,17 @@ Este repositorio contiene los desafíos elaborados en el contexto de la materia 
 
 * **Docente**:  
 Dr. Rodrigo Cardenas Szigety
-<br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-B9E1F5?style=flat-square&logo=gmail&logoColor=FFFFFF"></a>
+<br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-B9E1F5?style=flat-square&logo=gmail"></a>
 
 
 * **Alumno**:  
 Ing. Myrna Degano (a1618)
-<br><a href="mailto:myrna.l.degano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-myrna.l.degano@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<br><a href="mailto:myrna.l.degano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-myrna.l.degano@gmail.com-B9E1F5?style=flat-square&logo=gmail"></a>
 
 
 * **Referencias**:  
-<a href="https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural" target="_blank">FIUBA-Posgrado-Inteligencia-Artificial - Procesamiento lenguaje natural</a>
+<a href="https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural" target="_blank">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-FIUBA-Posgrado-Inteligencia-Artificial - Procesamiento lenguaje natural-B9E1F5?style=flat-square&logo=github"></a>
 
 
 * **Recursos**:   
