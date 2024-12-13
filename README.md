@@ -87,10 +87,6 @@ A partir del conjunto de datos propuesto se entrenaron varios modelos con arquit
 
 <br><br>
 ##    
-![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue?style=flat-square)
-
-![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-brightgreen?style=flat-square)
-
-<a href="https://tuproyecto.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Home-%F0%9F%8F%A0-blue?style=flat-square" alt="Home">
-</a>
+<div align="center">
+   <a href="[https://tuproyecto.github.io](https://mdegano-fiuba.github.io/CEIA_test/)" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8F%A0-Ver%20en%20GitHub%20Pages-B9E1F5?style=flat-square" alt="Home">
+</a></div>
