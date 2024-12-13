@@ -48,6 +48,9 @@ Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximiza
 <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=flat&logo=googlecolab">
 <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=social&logo=googlecolab">
 
+<a href="/docs">
+    <img alt="Docs" src="https://img.shields.io/badge/Docs-Open%20Docs-blue?style=flat-square&logo=github">
+</a>
 
 ## Desafío 2
 
