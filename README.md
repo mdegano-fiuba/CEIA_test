@@ -5,12 +5,12 @@ Este repositorio contiene los desafíos elaborados en el contexto de la materia 
 
 * **Docente**:  
 Dr. Rodrigo Cardenas Szigety
-<br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-blue?style=flat-square&logo=gmail">
+<br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 * **Alumno**:  
 Ing. Myrna Degano (a1618)
-<br><a href="mailto:myrna.l.degano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-myrna.l.degano@gmail.com-blue?style=flat-square&logo=gmail">
+<br><a href="mailto:myrna.l.degano@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-myrna.l.degano@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 
 * **Referencias**:  
@@ -43,8 +43,8 @@ VECTORIZACION DE DOCUMENTOS
 Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
 Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
-<a href="/D1">
-    <img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-blue?style=flat-square&logo=googlecolab">
+<a href="/D1" target="_blank">
+    <img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-white?style=flat-square&logo=googlecolab">
 </a>
 
 ## Desafío 2
