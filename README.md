@@ -15,7 +15,7 @@ Ing. Myrna Degano (a1618)
 
 * **Referencias**:  
 <a href="https://github.com/FIUBA-Posgrado-Inteligencia-Artificial/procesamiento_lenguaje_natural" target="_blank">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-FIUBA-Posgrado-Inteligencia-Artificial - Procesamiento lenguaje natural-B9E1F5?style=flat-square&logo=github"></a>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-FIUBA-Posgrado-Inteligencia-Artificial-Procesamiento%20lenguaje%20natural-B9E1F5?style=flat-square&logo=github"></a>
 
 
 * **Recursos**:   
