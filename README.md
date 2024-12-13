@@ -43,6 +43,7 @@ VECTORIZACION DE DOCUMENTOS
 Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
 Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
+<br>
   <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 ## Desafío 2
@@ -57,8 +58,12 @@ EMBEDDINGS
    - Pruebas de analogías
    - Visualización  
 
-* **Desarrollo**:  
-[XX](D1)
+* **Resumen**:  
+Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
+Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
+Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
+<br>
+  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 
 ## Desafío 3
@@ -74,8 +79,12 @@ MODELOS DE LENGUAJE
    - Probar estrategias de greedy search / beam search determinístico y estocástico
    - Probar el efecto de la temperatura en la generación de secuencias 
 
-* **Desarrollo**:  
-[XX](D1)
+* **Resumen**:  
+Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
+Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
+Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
+<br>
+  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 
 ## Desafío 4
@@ -86,7 +95,11 @@ BOT DE PREGUNTAS Y RESPUESTAS
 * **Objetivos**:  
    - Construir un bot para responder a preguntas del usuario.
 
-* **Desarrollo**:  
-[XX](D1)
+* **Resumen**:  
+Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
+Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
+Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
+<br>
+  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 
