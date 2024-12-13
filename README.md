@@ -9,6 +9,8 @@ Dr. Rodrigo Cardenas Szigety
 
 ![Status](https://img.shields.io/badge/Status-Passing-green.svg)
 
+<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=flat-square&logo=googlecolab">
+
 <img alt="Static Badge" src="https://img.shields.io/badge/OPEN-Google-#336699.svg">
 
 * **Alumno**:  
