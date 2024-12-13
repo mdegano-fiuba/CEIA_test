@@ -18,13 +18,13 @@ Ing. Myrna Degano (a1618)
 
 
 * **Recursos**:   
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
-![image](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![image](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![image](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![image](https://img.shields.io/badge/Python-B9E1F5?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/Numpy-B9E1F5?style=for-the-badge&logo=numpy&logoColor=white)
+![image](https://img.shields.io/badge/Pandas-B9E1F5?style=for-the-badge&logo=pandas&logoColor=white)
+![image](https://img.shields.io/badge/Keras-B9E1F5?style=for-the-badge&logo=keras&logoColor=white)
+![image](https://img.shields.io/badge/TensorFlow-B9E1F5?style=for-the-badge&logo=tensorflow&logoColor=white)
+![image](https://img.shields.io/badge/Plotly-B9E1F5?style=for-the-badge&logo=plotly&logoColor=white)
+![image](https://img.shields.io/badge/scikit_learn-B9E1F5?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
 ## Desafío 1
