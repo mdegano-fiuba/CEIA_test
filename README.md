@@ -26,7 +26,7 @@ Ing. Myrna Degano (a1618)
 ![image](https://img.shields.io/badge/Plotly-B9E1F5?style=for-the-badge&logo=plotly&logoColor=white)
 ![image](https://img.shields.io/badge/scikit_learn-B9E1F5?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-
+<br><br>
 ## Desafío 1
 
 * **Tema**:  
@@ -44,8 +44,9 @@ Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tarea
 Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
 <br>
-  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
+<br><br>
 ## Desafío 2
 
 * **Tema**:  
@@ -63,9 +64,9 @@ Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tarea
 Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
 <br>
-  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
-
+<br><br>
 ## Desafío 3
 
 * **Tema**:  
@@ -81,12 +82,12 @@ MODELOS DE LENGUAJE
 
 * **Resumen**:  
 Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
-Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
+Se evaluaron diferentes métodos de vectorización (TfidVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
 <br>
-  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
-
+<br><br>
 ## Desafío 4
 
 * **Tema**:  
@@ -100,6 +101,6 @@ Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tarea
 Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
 <br>
-  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20Notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
+  <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
 
