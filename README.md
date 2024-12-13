@@ -19,6 +19,8 @@ Ing. Myrna Degano (a1618)
 
 * **Recursos**:   
 ![image](https://img.shields.io/badge/Python-B9E1F5?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B9E1F5?style=for-the-badge&logo=python&logoColor=white)
+
 ![image](https://img.shields.io/badge/Numpy-B9E1F5?style=for-the-badge&logo=numpy&logoColor=white)
 ![image](https://img.shields.io/badge/Pandas-B9E1F5?style=for-the-badge&logo=pandas&logoColor=white)
 ![image](https://img.shields.io/badge/Keras-B9E1F5?style=for-the-badge&logo=keras&logoColor=white)
