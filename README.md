@@ -5,7 +5,7 @@ Este repositorio contiene los desafíos elaborados en el contexto de la materia 
 
 * **Docente**:  
 Dr. Rodrigo Cardenas Szigety
-<br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-B9E1F5?style=flat-square&logo=gmail&color=FFFFFF"></a>
+<br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-B9E1F5?style=flat-square&logo=gmail&logoColor=FFFFFF"></a>
 
 
 * **Alumno**:  
