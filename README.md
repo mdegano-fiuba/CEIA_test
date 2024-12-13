@@ -60,9 +60,7 @@ EMBEDDINGS
    - Visualización  
 
 * **Resumen**:
-<div style="text-align: justify;">
 Se utilizó para el análisis un corpus armado con archivos *.txt con los cuentos más famosos de los hermanos Grimm.  Se realizó la tokenización por palabras para evaluar similaridad entre términos y hacer pruebas de analogías.  Se exploraron diferentes modelos de embeddings de palabras (Glove, Fasttext) y se realizaron diferentes entrenamientos modificando parámetros para analizar comparativamente su desempeño.
-</div>
 <br>
   <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
