@@ -91,3 +91,6 @@ A partir del conjunto de datos propuesto se entrenaron varios modelos con arquit
 
 ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-brightgreen?style=flat-square)
 
+<a href="https://tuproyecto.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/Home-%F0%9F%8F%A0-blue?style=flat-square" alt="Home">
+</a>
