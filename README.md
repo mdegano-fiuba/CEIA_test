@@ -7,11 +7,6 @@ Este repositorio contiene los desafíos elaborados en el contexto de la materia 
 Dr. Rodrigo Cardenas Szigety
 <br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-blue?style=flat-square&logo=gmail">
 
-![Status](https://img.shields.io/badge/Status-Passing-green.svg)
-
-<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=flat-square&logo=googlecolab">
-
-<img alt="Static Badge" src="https://img.shields.io/badge/OPEN-Google-#336699.svg">
 
 * **Alumno**:  
 Ing. Myrna Degano (a1618)
@@ -49,6 +44,10 @@ Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tarea
 Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
 Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
 [Ver Notebook (Desarrollo y conclusiones)](D1)
+<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=flat-square&logo=googlecolab">
+<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=flat&logo=googlecolab">
+<img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-Open%20in%20Colab-blue?style=social&logo=googlecolab">
+
 
 ## Desafío 2
 
