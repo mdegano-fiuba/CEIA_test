@@ -85,4 +85,9 @@ BOT DE PREGUNTAS Y RESPUESTAS
 A partir del conjunto de datos propuesto se entrenaron varios modelos con arquitectura Encoder-Decoder con diferentes parámetros para evaluar el desempeño comparativo del bot generando respuestas a las preguntas ingresadas como input.  <br>  
 <a href="/D1" target="_blank"><img alt="Notebook" src="https://img.shields.io/badge/Google%20Colab-Ver%20notebook%20(Desarrollo%20y%20conclusiones)-B9E1F5?style=flat-square&logo=googlecolab"></a>
 
+<br><br>
+##    
+![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue?style=flat-square)
+
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-brightgreen?style=flat-square)
 
