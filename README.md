@@ -7,6 +7,9 @@ Este repositorio contiene los desafíos elaborados en el contexto de la materia 
 Dr. Rodrigo Cardenas Szigety
 <br><a href="mailto:rodrigo.cardenas.sz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-rodrigo.cardenas.sz@gmail.com-blue?style=flat-square&logo=gmail">
 
+![Status](https://img.shields.io/badge/Status-Passing-green.svg)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/OPEN-Google-#336699.svg">
 
 * **Alumno**:  
 Ing. Myrna Degano (a1618)
@@ -39,8 +42,11 @@ VECTORIZACION DE DOCUMENTOS
    - Probar test de analogías  
    - Graficar embeddings  
 
-* **Desarrollo**:  
-[XX](D1)
+* **Resumen**:  
+Sobre un conjunto de datos dado (20 Newsgroups) utilizado comúnmente para tareas de clasificación de texto y que contiene publicaciones de 20 grupos de noticias diferentes se realizaron diferentes experimentos para comparar y obtener conclusiones.
+Se evaluaron diferentes métodos de vectorización (TfidfVectorizer, CountVectorizer) y se evaluó similaridad entre ciertos documentos tomados al azar con el resto de los documentos del corpus.
+Se entrenaron diferentes modelos de clasificación Naive Bayes buscando maximizar el desempeño de clasificación sobre el conjunto de datos (Multinomial, ComplementNB) y medir similaridad entre palabras.
+[Ver Notebook (Desarrollo y conclusiones)](D1)
 
 ## Desafío 2
 
